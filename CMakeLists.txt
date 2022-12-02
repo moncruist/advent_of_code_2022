@@ -17,3 +17,4 @@ include_directories(${CMAKE_SOURCE_DIR})
 
 add_subdirectory(utils)
 add_subdirectory(day1)
+add_subdirectory(day2)
